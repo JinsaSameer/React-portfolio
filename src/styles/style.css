@@ -1,0 +1,32 @@
+
+.content {
+    padding: 0 20px 60px;
+    font-family: "Oswald", sans-serif;
+    }
+  
+  .project-link {
+    font-size: 1.3rem;
+    color: #1d3557;
+    font-family: 'Acme';
+  }
+  
+  .space-above {
+    padding-top: 10px;
+  }
+  
+  .space-below {
+    padding-bottom: 20px;
+  }
+  
+
+
+
+
+
+@media only screen and (min-width: 950px) {
+
+    .content {
+      padding: 0 150px 60px;
+      width: 80%;
+    }
+  }
