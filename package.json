@@ -1,5 +1,6 @@
-{"homepage": "http://jinsasameer.github.io/React-portfolio",
-  "name": "my-first-react-app",
+{
+  "homepage": "http://jinsasameer.github.io/React-portfolio",
+  "name": "React-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
