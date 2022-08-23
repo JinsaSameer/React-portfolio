@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from '../Header';
 import Footer from '../Footer';
-import resume from '../../assets/resume.pdf';
+//import resume from '../../assets/resume.pdf';
 //import '../../styles/footer.css';
 import '../../styles/style.css';
 export default function Resume() {
