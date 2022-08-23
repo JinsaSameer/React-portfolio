@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.7453cb1c.css",
-    "main.js": "/react-portfolio/static/js/main.2e1dd69a.js",
-    "static/media/image6.png": "/react-portfolio/static/media/image6.2604e892f3e73bc328ad.png",
-    "static/media/resume.pdf": "/react-portfolio/static/media/resume.0c8e0e26a25c87ad30a6.pdf",
-    "static/media/photo.png": "/react-portfolio/static/media/photo.edbab3502edf97f3ac24.png",
-    "static/media/github.png": "/react-portfolio/static/media/github.1b6bd0e4b6626baba753.png",
-    "static/media/gmail.jpg": "/react-portfolio/static/media/gmail.e1e8aba8663526372ee8.jpg",
-    "static/media/image1.jpg": "/react-portfolio/static/media/image1.26c859956f895a1cb34a.jpg",
-    "static/media/image3.jpg": "/react-portfolio/static/media/image3.67249db807cb4c78aff3.jpg",
-    "static/media/image4.jpg": "/react-portfolio/static/media/image4.86946d5c1bd412f699f6.jpg",
-    "index.html": "/react-portfolio/index.html",
-    "main.7453cb1c.css.map": "/react-portfolio/static/css/main.7453cb1c.css.map",
-    "main.2e1dd69a.js.map": "/react-portfolio/static/js/main.2e1dd69a.js.map"
+    "main.css": "/React-portfolio/static/css/main.7453cb1c.css",
+    "main.js": "/React-portfolio/static/js/main.104f7f6c.js",
+    "static/media/image6.png": "/React-portfolio/static/media/image6.2604e892f3e73bc328ad.png",
+    "static/media/resume.pdf": "/React-portfolio/static/media/resume.0c8e0e26a25c87ad30a6.pdf",
+    "static/media/photo.png": "/React-portfolio/static/media/photo.edbab3502edf97f3ac24.png",
+    "static/media/github.png": "/React-portfolio/static/media/github.1b6bd0e4b6626baba753.png",
+    "static/media/gmail.jpg": "/React-portfolio/static/media/gmail.e1e8aba8663526372ee8.jpg",
+    "static/media/image1.jpg": "/React-portfolio/static/media/image1.26c859956f895a1cb34a.jpg",
+    "static/media/image3.jpg": "/React-portfolio/static/media/image3.67249db807cb4c78aff3.jpg",
+    "static/media/image4.jpg": "/React-portfolio/static/media/image4.86946d5c1bd412f699f6.jpg",
+    "index.html": "/React-portfolio/index.html",
+    "main.7453cb1c.css.map": "/React-portfolio/static/css/main.7453cb1c.css.map",
+    "main.104f7f6c.js.map": "/React-portfolio/static/js/main.104f7f6c.js.map"
   },
   "entrypoints": [
     "static/css/main.7453cb1c.css",
-    "static/js/main.2e1dd69a.js"
+    "static/js/main.104f7f6c.js"
   ]
 }
