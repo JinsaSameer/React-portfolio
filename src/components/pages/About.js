@@ -15,7 +15,7 @@ export default function About() {
         <img className="image" src={photo} alt="image" width="140"></img>
         <div className="abt">
           <p>I am hardworking and i love coding.</p>
-          <p>My background is Computer Science and noew I am doing Full stack developer course at UCSD</p>
+          <p>My background is Computer Science and now I am doing Full stack developement course at UCSD</p>
           
         </div>
       </div>
